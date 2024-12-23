@@ -26,7 +26,7 @@ total_sale = price * coffee_count
 
 while True :
       money = int(input("금액을 넣어주세요"))
-      if money < pr\ice:
+      if money < price:
           while True :
               print(("""금액이 부족합니다. %s(을)를 드시고 싶으시면 %d원을 더 넣어주시기 바랍니다.
                         반환을 원하신다면 '반환하기'를 입력해주시기 바랍니다""" %(coffee_Name,price - money)))
