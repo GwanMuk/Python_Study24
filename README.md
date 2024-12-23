@@ -9,6 +9,9 @@ https://wikidocs.net/book/1
 스프링 부트
 https://wikidocs.net/book/7601
 
+AI관련
+https://wikidocs.net/book/14720
+
 
 ```
 # 미션
