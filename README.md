@@ -12,6 +12,10 @@ https://wikidocs.net/book/7601
 AI관련
 https://wikidocs.net/book/14720
 
+Git 허브 참고자료
+
+[gitHub.pdf](https://github.com/user-attachments/files/18256289/gitHub.pdf)
+
 
 24년 12월 20일 미션
 
