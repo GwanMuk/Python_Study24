@@ -5,16 +5,18 @@ mbc아카데미 컴퓨터 교육센터 수원점에서 AI기초 학습 진행용
 
 파이썬
 https://wikidocs.net/book/1
+![jump_to_python표지](https://github.com/user-attachments/assets/4f7e0dc7-3396-499e-a445-3ba02197f11c)
 
 스프링 부트
 https://wikidocs.net/book/7601
+![junp_to_spring_boot표지](https://github.com/user-attachments/assets/a8633f33-b009-4c39-b27a-998cdaa7e41f)
 
 AI관련
 https://wikidocs.net/book/14720
+![AI와_친해지기](https://github.com/user-attachments/assets/16295c30-0596-483c-966c-0804eeef1d2f)
 
 Git 허브 참고자료
-
-[gitHub.pdf](https://github.com/user-attachments/files/18256289/gitHub.pdf)
+![캡처](https://github.com/user-attachments/assets/c1406a53-49d6-4d52-9a14-936848cf16fc)
 
 
 24년 12월 20일 미션
