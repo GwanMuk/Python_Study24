@@ -17,7 +17,7 @@ https://wikidocs.net/book/7601
 
 AI관련
 https://wikidocs.net/book/14720
-img(width:400px height:700px)
+
 
 ![AI와_친해지기](https://github.com/user-attachments/assets/5cf1ef94-a5be-407b-a655-61e09690733e)
 
